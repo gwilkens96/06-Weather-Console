@@ -1,0 +1,26 @@
+.search-button {
+  margin: 9%;
+  width: 100%;
+  background-color: #2e547c;
+  color: #d9e9e8;
+}
+.weather-search {
+  width: 100%;
+  padding: 0.75rem;
+  margin: 0.5rem !important;
+  color: #1a1a1a;
+  background-color: #ffffff;
+  margin: 0.625rem 0;
+  font-size: 1.2rem;
+  border: 1px solid #484848;
+  border-radius: 0.3rem;
+}
+
+button.history-btn {
+  margin: 2%;
+}
+
+div.card-body {
+  background-color: rgb(74, 200, 238);
+  color: #1a1a1a;
+}
