@@ -14,7 +14,7 @@
 
 ## Installation
 
-Visit the github page linked here:
+Visit the github page linked here: https://gwilkens96.github.io/06-Weather-Console/
 
 ## Usage
 
